@@ -1,4 +1,4 @@
-# kaggle_competitions
+# kaggle_competition
 Contains various problem statements from kaggle
 
 ```bibtex
